@@ -1,0 +1,11 @@
+#berita {
+    background-color: #98f989;
+}
+
+.hijau {
+    color: #98f989;
+}
+
+.ketika-hover:hover {
+    color: black !important;
+}
